@@ -22,7 +22,7 @@ Recommended installation procedure:
 - installation:
 ```
  pip install cython numpy
- pip install git+git://github.com/xolive/geodesy.git
+ pip install git+git://github.com/xoolive/geodesy.git
 ```
 You can then read the manual embedded in `geodesy.sphere` and `geodesy.wgs84`
 
